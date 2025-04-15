@@ -1,0 +1,5 @@
+Line 1: #ifndef ENCODING_H checks if the macro ENCODING_H is not defined.
+This is part of a header guard, a common C++ idiom to prevent multiple inclusions of the same header file, which could cause redefinition errors.
+Line 2: #define ENCODING_H defines the macro ENCODING_H.
+If the header is included again, the #ifndef condition will be false, skipping the header’s contents.
+Purpose: Ensures the contents of encoding.h are only processed once per compilation unit.
