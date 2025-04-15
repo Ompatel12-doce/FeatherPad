@@ -8,7 +8,6 @@ Below is a list of files and their purposes in this folder:
 
 - **vscrollbar.cpp**: Implements a custom vertical scrollbar with enhanced wheel event handling for smoother scrolling. Overrides Qt's `QScrollBar` to address hover bugs and provide precise scroll steps.
 - **encoding.h**: Declares the `detectCharset` function for automatic character encoding detection, enabling proper text decoding for opened files.
-- **\[Add other files here\]**: \[Brief description of additional files, e.g., new features, bug fixes, or documentation.\]
 
 *Note*: If you add new files, please update this README with their descriptions.
 
