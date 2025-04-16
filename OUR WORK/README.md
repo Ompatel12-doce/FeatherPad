@@ -1,3 +1,5 @@
+![WhatsApp Image 2025-04-16 at 00 00 51_e9bcacf8](https://github.com/user-attachments/assets/665689d7-bfc3-4592-92fc-a5c49c7775e6)
+![WhatsApp Image 2025-04-16 at 00 01 04_6c5ff2f3](https://github.com/user-attachments/assets/35e0c2dc-772a-4c29-870b-8aa0c1ba4bb2)
 # OUR WORK
 
 This folder contains custom contributions, modifications, and enhancements made to the FeatherPad text editor in this fork. FeatherPad is a lightweight, Qt-based plain-text editor for Linux, and the work here reflects our efforts to extend or improve its functionality.
