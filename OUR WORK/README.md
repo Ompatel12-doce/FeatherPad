@@ -26,7 +26,7 @@ To contribute to this folder:
 
 1. **Fork and Clone**: Clone this repository and navigate to the `OUR WORK` folder.
 2. **Add/Modify Files**: Place new or modified files here, ensuring they follow FeatherPad’s coding style (see the main README).
-3. **Document Changes**: Update this README with a brief description of your file(s).
+3. **Document Changes**: Update this README with a brief description of your(owner's) file(s).
 4. **Test Thoroughly**: Ensure your changes compile and work with FeatherPad (see INSTALL for build instructions).
 5. **Submit a Pull Request**: Create a PR against this fork, detailing your changes and their purpose.
 
