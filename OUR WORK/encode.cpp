@@ -31,7 +31,7 @@ bool validateUTF8 (const QByteArray byteArray)
     const unsigned char *bytes = (const unsigned char*)string;
     unsigned int cp; // code point
     int bn; // bytes number
-
+// Check ho rha hai ki UTF-8 hai ki nahi
     while (*bytes != 0x00)
     {
         /* assuming that UTF-8 maps a sequence of 1-4 bytes,
