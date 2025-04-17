@@ -9,7 +9,8 @@ This folder contains custom contributions, modifications, and enhancements made 
 Below is a list of files and their purposes in this folder:
 
 - **vscrollbar.cpp**: Implements a custom vertical scrollbar with enhanced wheel event handling for smoother scrolling. Overrides Qt's `QScrollBar` to address hover bugs and provide precise scroll steps.
-- **encoding.h**: Declares the `detectCharset` function for automatic character encoding detection, enabling proper text decoding for opened files.
+- **encoding.h**: Declares the `detectCharset` function for automatic character encoding detection, enabling proper text decoding for opened files. This uses the Standart UTF-8 encoding mechanism to check  and verify. We have attached a flow chart to understand encoding mechanism.
+![ChatGPT Image Apr 17, 2025, 01_01_10 PM](https://github.com/user-attachments/assets/ea8c5b72-9315-4878-af5a-9da6e552285e)
 
 
 ## Purpose
@@ -39,3 +40,4 @@ All contributions in this folder are licensed under the GNU General Public Licen
 ## Contact
 
 For questions or collaboration, open an issue on this repository or contact the maintainers via GitHub.
+
