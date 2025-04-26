@@ -29,7 +29,7 @@ FeatherPad was written in GTK+ at first, then ported to Qt with more features. I
 
 ## Credits
 
-Haiku OS support is added by [khallebal at GitHub](https://github.com/khallebal).
+Haiku OS  support is added by [khallebal at GitHub](https://github.com/khallebal).
 
 macOS support is added by [Pavel Shliak](https://github.com/shlyakpavel).
 
